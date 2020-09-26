@@ -1,4 +1,4 @@
-package com.vaibhavmojidra.notificationdemo.SendNotificationPack;
+
 
 public class Token {
     private String token;
