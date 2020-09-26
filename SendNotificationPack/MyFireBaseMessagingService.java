@@ -1,4 +1,3 @@
-package com.vaibhavmojidra.notificationdemo.SendNotificationPack;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -12,7 +11,6 @@ import androidx.core.app.NotificationManagerCompat;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
-import com.vaibhavmojidra.notificationdemo.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
