@@ -1,4 +1,3 @@
-package com.vaibhavmojidra.notificationdemo;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
