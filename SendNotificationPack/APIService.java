@@ -1,4 +1,3 @@
-package com.vaibhavmojidra.notificationdemo.SendNotificationPack;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
